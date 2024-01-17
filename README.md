@@ -1,12 +1,12 @@
 # Automated-Teller-Machine
 
-This JAVA project is based on a ATM 
+This JAVA project is based on a ATM <br>
 user account: {Customer Number, PIN number, Checking Balance, Saving Balance}
 ### Functions:
--Create account
--Login
--Checking accounts
--Savings account
--Check balance
--Withdraw/Deposit/Transfer Funds
+-Create account <br>
+-Login <br>
+-Checking accounts <br>
+-Savings account <br>
+-Check balance <br>
+-Withdraw/Deposit/Transfer Funds <br>
 
